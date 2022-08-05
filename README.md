@@ -2,6 +2,8 @@
 
 [![codecov](https://codecov.io/gh/Michigan-Tech-Courses/rate-my-professors/branch/master/graph/badge.svg?token=YSBV5T5GVY)](https://codecov.io/gh/Michigan-Tech-Courses/rate-my-professors)
 
+# Forked from [@mtucourses/rate-my-professors](https://github.com/Michigan-Tech-Courses/rate-my-professors)
+
 A basic wrapper for Rate My Professors's GraphQL API. Includes TypeScript definitions.
 
 It is possible to pull full ratings with content as well, but currently this package just returns the average.
